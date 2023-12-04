@@ -1,0 +1,32 @@
+<style>
+    body {
+        background-image: url('1 - LOGO FJUNI.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        color: #bbb Black;; /* Set the text color to white for better contrast */
+    }
+
+    h1, p {
+        background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background behind headings and paragraphs */
+        padding: 10px; /* Add some padding to text elements for better readability */
+    }
+
+    ol {
+        background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent black background behind the list */
+        padding: 10px; /* Add some padding to the list */
+    }
+
+    li {
+        background-color: rgba(0, 0, 0, 0.3); /* Add a semi-transparent black background behind list items */
+        padding: 10px; /* Add some padding to list items */
+    }
+
+    input[type="button"] {
+        background-color: #007bff; /* Set a blue background color for the "Corrigir" button */
+        color: #fff; /* Set text color to white for the button */
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+    }
+</style>
